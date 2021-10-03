@@ -6,16 +6,16 @@
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavopnunes/) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/greg_gw/)
 
-
+<div style="display: flex; width: 100%; justify-content: space-evenly;" >
 <a href="https://github.com/gustavopnunes">
-  <img height="200px" align="center" src="https://github-readme-stats.vercel.app/api?username=gustavopnunes&theme=dracula&show_icons=true" />
+  <img height="200px align="center" src="https://github-readme-stats.vercel.app/api?username=gustavopnunes&theme=dracula&show_icons=true" />
 </a>
 
 <a href="https://github.com/gustavopnunes">
-  <img height="200px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavopnunes&layout=compact&theme=dracula" />
+  <img height="200px align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavopnunes&layout=compact&theme=dracula&langs_count=6" />
 </a>
+</div>
 
-<br />
 <br />
 
 ### Tecnologias que uso no meu dia a dia: 
