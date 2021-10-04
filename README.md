@@ -1,6 +1,7 @@
 
 
 ## Olá, sou o Gustavo! 👋 
+#### 📍 Ubatuba - SP 
 
 <p>Apaixonado por tecnologia, atuo como técnico em informática desde 2010 e iniciei meus estudos em desenvolvimento web em 2020.</p>
 <p>Atualmente estudando tecnologias para back-end.</p>
