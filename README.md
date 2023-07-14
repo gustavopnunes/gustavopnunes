@@ -4,7 +4,7 @@
 
 
 <p>Apaixonado por tecnologia, atuo como técnico em informática desde 2010 e iniciei meus estudos em desenvolvimento web em 2020.
-Atualmente estudando tecnologias backend e trabalhando Java + Springboot no iFood. </p>
+Atualmente estudando tecnologias backend e trabalhando com Java + Springboot no iFood. </p>
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavopnunes/) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/greg_gw/)
 
